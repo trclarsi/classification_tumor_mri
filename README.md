@@ -111,5 +111,4 @@ Des exemples de code pour cela peuvent être ajoutés à la fin du notebook.
 
 ## Auteur
 
-[Votre Nom/Pseudo]
-[Votre Contact ou Lien GitHub]
+ILOKI
