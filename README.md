@@ -109,7 +109,3 @@ Une fois le modèle entraîné et sauvegardé (par exemple, au format `.h5` ou `
 
 Des exemples de code pour cela peuvent être ajoutés à la fin du notebook.
 
-## Auteur
-
-[Votre Nom/Pseudo]
-[Votre Contact ou Lien GitHub]
