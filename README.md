@@ -108,7 +108,3 @@ Une fois le modèle entraîné et sauvegardé (par exemple, au format `.h5` ou `
 4.  Retourner la classe prédite (par exemple, "gliome", "pas de tumeur", etc.).
 
 Des exemples de code pour cela peuvent être ajoutés à la fin du notebook.
-
-## Auteur
-
-ILOKI
