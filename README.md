@@ -16,10 +16,8 @@ This project aims to classify tumor MRI scans using advanced machine learning al
 - **scikit-learn**: Library for evaluating model performance
 
 ## Performance Metrics
-- **Accuracy**: 95.3%  
-- **Precision**: 96.1%  
-- **Recall**: 94.5%  
-- **F1-Score**: 95.3%  
+- **Accuracy**: 48%   
+- **F1-Score**: 44%  
 
 ## Installation
 1. Clone the repository:
